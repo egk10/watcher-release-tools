@@ -1,0 +1,7 @@
+Package: watcher-monitoring
+Version: 1.0.1
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Elie <your-email@domain>
+Description: Ethereum validator monitoring toolkit with Telegram alerts and health checks
